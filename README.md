@@ -7,18 +7,18 @@ Me chamo Jorge Michael Almeida de Jesus, sou do Espírito Santo e estou em forma
 Tenho interesse em desenvolvimento de sistemas, suporte de TI, automação e criação de projetos práticos. Já desenvolvi projetos com Arduino, C++, HTML, C#, Windows Forms e MySQL, incluindo sistemas acadêmicos, projetos de robótica e aplicações desktop. Busco evoluir constantemente na área de tecnologia, aplicando meus conhecimentos em projetos reais e aprendendo novas ferramentas durante o processo.
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=repositories&sort=stargazers">
+    <a href="https://www.instagram.com/eujmichael/" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO_GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-eujmichael-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO_GITHUB?tab=followers">
+    <a href="https://www.linkedin.com/in/eujmichael/" target="_blank">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO_GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedIn" 
+            title="Me conecte no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-eujmichael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
