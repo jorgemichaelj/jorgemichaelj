@@ -8,18 +8,8 @@ Tenho interesse em desenvolvimento de sistemas, suporte de TI, automação e cri
 
 <p align="left">
     <a href="https://www.instagram.com/eujmichael/" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-eujmichael-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
     </a>
-    <a href="https://www.linkedin.com/in/eujmichael/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Me conecte no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-eujmichael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+    <a href="https://www.linkedin.com/in/eujmichael/" target="_blank">  
     </a>
 </p>
 
