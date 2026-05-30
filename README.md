@@ -98,15 +98,15 @@ Tenho interesse em desenvolvimento de sistemas, suporte de TI, automação e cri
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <div align="left">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=jorgemichaelj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+    height="180em"
+    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jorgemichaelj&theme=tokyonight"
   />
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemichaelj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180em"
+    alt="Linguagens"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgemichaelj&theme=tokyonight"
   />
 </div>
