@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Olá, eu sou o Jorge Michael! 👋
+  # Eai, me chamo Jorge Michael! 👋
   ### 🚀 Estudante de TI & Desenvolvedor de Software
 
   <p align="center">
